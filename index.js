@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 //
 const BotName = 'Nanas'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/nasrullah_ns10' ; // Nama Instagramlu cok
-const whatsapplu = '0882-5814-6470; // Nomor whatsapplu cok
+const whatsapplu = '0882-5814-6470'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 //
 const
